@@ -4,7 +4,7 @@
         <Name>Westin</Name>
         <Phone>480-968-8885</Phone>
         <Phone>800-937-8461</Phone>
-        <Address NearestAirport="Sky Harbor">
+        <Address NearstAirport="Sky Harbor">
             <Number>11</Number>
             <Street>E 7th St</Street>
             <City>Tempe</City>
@@ -16,7 +16,7 @@
     <Hotel Rating="4.0">
         <Name>Hilton Garden Inn</Name>
         <Phone>602-222-1111</Phone>
-        <Address NearestAirport="Sky Harbor">
+        <Address NearstAirport="Sky Harbor">
             <Number>4000</Number>
             <Street>N Central Ave</Street>
             <City>Phoenix</City>
@@ -41,7 +41,7 @@
     <Hotel Rating="4.5">
         <Name>JW Marriott Desert Ridge</Name>
         <Phone>480-293-5000</Phone>
-        <Address NearestAirport="Phoenix–Mesa Gateway">
+        <Address NearstAirport="Phoenix–Mesa Gateway">
             <Number>5350</Number>
             <Street>E Marriott Dr</Street>
             <City>Phoenix</City>
@@ -65,7 +65,7 @@
     <Hotel Rating="3.8">
         <Name>Holiday Inn Express &amp; Suites Tempe</Name>
         <Phone>480-831-9800</Phone>
-        <Address NearestAirport="Sky Harbor">
+        <Address NearstAirport="Sky Harbor">
             <Number>1520</Number>
             <Street>W Baseline Rd</Street>
             <City>Tempe</City>
@@ -102,7 +102,7 @@
     <Hotel Rating="4.2">
         <Name>DoubleTree by Hilton Phoenix Mesa</Name>
         <Phone>480-833-5555</Phone>
-        <Address NearestAirport="Phoenix–Mesa Gateway">
+        <Address NearstAirport="Phoenix–Mesa Gateway">
             <Number>1011</Number>
             <Street>W Holmes Ave</Street>
             <City>Mesa</City>
@@ -126,7 +126,7 @@
     <Hotel Rating="4.3">
         <Name>Kimpton Hotel Palomar Phoenix</Name>
         <Phone>602-253-6633</Phone>
-        <Address NearestAirport="Sky Harbor">
+        <Address NearstAirport="Sky Harbor">
             <Number>2</Number>
             <Street>E Jefferson St</Street>
             <City>Phoenix</City>

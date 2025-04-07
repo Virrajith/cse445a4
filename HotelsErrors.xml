@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel> <!-- Error 1: Root element is "Hotel" instead of "Hotels" -->
+  <Name>Error Hotel 1</Name>
+  <!-- Error 2: Missing "Rating" attribute -->
+  <Phone Type="Main">123-456-7890</Phone>
+  <!-- Error 3: Only one Phone element (minimum 2 required) -->
+  <Address> <!-- Error 4: Missing closing </Address> tag -->
+    <Number>999</Number>
+    <Street>Error Street</Street>
+    <City>Error City</City>
+    <State>ER</State>
+    <Zip>00000</Zip>
+  <Name>Duplicate Name</Name> <!-- Error 5: Duplicate "Name" element -->
+</Hotel>

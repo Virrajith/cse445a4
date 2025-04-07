@@ -27,7 +27,7 @@
                   </xs:sequence>
 
                   <!-- optional attribute on Address -->
-                  <xs:attribute name="NearestAirport"
+                  <xs:attribute name="NearstAirport"
                                 type="xs:string"
                                 use="optional"/>
                 </xs:complexType>
